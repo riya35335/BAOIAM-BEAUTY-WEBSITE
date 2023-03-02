@@ -1,0 +1,92 @@
+.div-link{
+	padding-top: 8px;
+	display: flex;
+	
+}
+.aayu{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div-link b{
+	color: black;
+}
+.div-link b:hover{
+	color:  rgba(135, 135, 245, 0.753);
+
+}
+.shopicon{
+	color: rgba(123, 123, 245, 0.753);
+	
+
+}
+
+.second-nav{
+	border-top: 0.5px solid rgba(131, 131, 254, 0.753);
+	
+	
+}
+.abc{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.abc a:hover{
+	color:  rgba(102, 102, 229, 0.753);
+}
+.jumbotron{
+	padding: 0rem !important;
+}
+.pic{
+	padding: 0px;
+}
+
+.pic img{
+	max-width: 100%; 
+	margin: 0;
+}
+.ima{
+	max-width: 200%;
+	display: block !important;
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+.ima img{
+	width: 274px;
+}
+
+
+.fot img{
+	max-width: 1114px;
+}
+
+.EC img{
+
+	padding-left:230px
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+  }
+  
+a {
+    color: #8b03ad;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:hover{
+	color: rgba(38, 38, 96, 0.753);
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+footer{
+	color: black;
+	width: 100%;
+	background-color: rgba(165, 165, 243, 0.753);
+
+}
